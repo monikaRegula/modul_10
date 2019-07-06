@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-spring-intro.spring-intro.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-spring-intro.spring-intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-spring-intro.spring-intro.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-spring-intro.spring-intro.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-spring-intro.spring-intro.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-spring-intro.spring-intro.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modul_10.iml" filepath="$PROJECT_DIR$/modul_10.iml" />
+    </modules>
+  </component>
+</project>

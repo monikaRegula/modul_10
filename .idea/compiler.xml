@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.kodilla.kodilla-spring.main" target="1.8" />
+      <module name="com.kodilla.kodilla-spring.test" target="1.8" />
+      <module name="kodilla-spring-intro.spring-intro.main" target="1.8" />
+      <module name="kodilla-spring-intro.spring-intro.test" target="1.8" />
+      <module name="kodilla-spring.main" target="1.8" />
+      <module name="kodilla-spring.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
